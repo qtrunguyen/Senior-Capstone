@@ -21,5 +21,5 @@
 21. Document the codebase and create a comprehensive user manual for future developers and users.
 22. Create troubleshooting guides to assist with common issues and maintenance tasks.
 23. Refine system features based on feedback from initial testing and deployment.
-24.Plan for system updates and scalability enhancements in future iterations.
+24. Plan for system updates and scalability enhancements in future iterations.
 25. Prepare a final project report summarizing design decisions, challenges, and outcomes.
