@@ -1,0 +1,6 @@
+- Google Research Publication: The Google File System, static.googleusercontent.com/media/research.google.com/en/us/archive/gfs.html. Accessed 1 Dec. 2024. 
+- Tanenbaum, A. S., & Van Steen, M. (2007). Distributed Systems: Principles and Paradigms. Prentice-Hall.
+- Amazon Web Services. (2024). AWS Pricing Calculator. Amazon Web Services. Retrieved from https://calculator.aws
+- Ceph Documentation. (2024). Ceph Distributed File System. Retrieved from https://docs.ceph.com
+- GlusterFS Documentation. (2024). GlusterFS Overview. Retrieved from https://docs.gluster.org
+- Syed, M. R. (2019). Security in Cloud Computing and Distributed Systems. International Journal of Computer Science and Information Security, 17(3), 68-76.
